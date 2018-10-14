@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Test
+plotly: true
 ---
 
 # Test notebook
