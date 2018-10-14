@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Me
+root: .
 ---
 
 ![Moi]({{ "/assets/pic_about_me.jpg" | absolute_url }})

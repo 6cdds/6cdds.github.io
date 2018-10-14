@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Portfolio
+root: ..
 ---
 
 Here are some of my personal data science projects.
