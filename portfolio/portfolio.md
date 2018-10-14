@@ -17,7 +17,7 @@ Here are some of my personal data science projects.
          when it comes to a shelter in Austin, Texas.</p>
   		</div>
       <div class='card-buttons'>
-        <!--- <a href="/portfolio/kaggle_animal_shelter.md" target="_blank" class="btn btn-primary">Notebook</a> -->
+        <a href="/portfolio/kaggle_animal_shelter">Notebook</a>
       </div>
 	</div>
 </div>
