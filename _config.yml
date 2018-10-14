@@ -13,12 +13,11 @@ plugins:
 title:            Colleen Smith
 tagline:          ''
 description:      'A blog about Data Science and sometimes cats.'
-url:              http://6cdds.github.io
-baseurl:          ''
+url:              https://6cdds.github.io
+baseurl:
 
 author:
   name:           'Colleen Smith'
-  url:            https://twitter.com/mdo
 
 paginate:         5
 
