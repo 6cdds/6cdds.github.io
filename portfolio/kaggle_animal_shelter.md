@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: notebook
 title: Shelter Animal Outcomes
 skills: Python
 external_type: Github
