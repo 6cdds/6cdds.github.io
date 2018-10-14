@@ -14,7 +14,7 @@ title:            Colleen Smith
 tagline:          ''
 description:      'A blog about Data Science and sometimes cats.'
 url:              http://6cdds.github.io
-baseurl:          /
+baseurl:          ''
 
 author:
   name:           'Colleen Smith'
