@@ -15,7 +15,7 @@ Here are some of my personal data science projects.
   		<div class="card-block">
     		<h4 class="card-title">Predicting Outcomes of Shelter Animals</h4>
     		<p class="card-text">A Classification problem to predict what happens to an animal
-         when it comes to a shelter in Austin, Texas.</p>
+         when it comes to a shelter in Austin, Texas. Pictured is MY adorably little shelter rescue.</p>
   		</div>
       <div class='card-buttons'>
         <a href="/portfolio/kaggle_animal_shelter">Notebook</a>
