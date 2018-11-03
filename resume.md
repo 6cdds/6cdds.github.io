@@ -1,8 +1,7 @@
 ---
 layout: page
-title: About Me
-root: .
+title: Resume
 ---
 
 
-{{ site.baseurl }}/assets/Colleen_Smith_Resume_2018_blog.pdf
+[Get the PDF]{{ site.baseurl }}/assets/Colleen_Smith_Resume_2018_blog.pdf
